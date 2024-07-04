@@ -3,3 +3,6 @@ numpy                     1.26.4
 torch                     2.2.2
 pillow                    10.2.0
 urllib3                   2.2.2
+os
+glob
+zipfile
